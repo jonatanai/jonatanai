@@ -1,6 +1,5 @@
 # Machine learning in Javascript
 
-
 ## Install
 
 ```
@@ -229,4 +228,6 @@ m.toString()
 # [4,3,3]
 # [4,4,4]
 ```
+## License
 
+[CC BY-NC-ND 4.0](./LICENSE)
